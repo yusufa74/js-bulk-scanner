@@ -1,6 +1,3 @@
-# js-bulk-scanner
-A Bash script to scan JavaScript files for sensitive data and API endpoints
-
 # JS Bulk Scanner
 
 A Bash script to extract sensitive keywords, full URLs, and API endpoints from multiple JavaScript files.
